@@ -1,2 +1,2 @@
-## To Play
+## 2048
 Run AnimatedDriver.java :)
